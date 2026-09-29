@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h1 align="center">hi, i'm <a href="https://yuna0x0.com">yuna0x0</a>!</h1>
+<h1 align="center">hi, i'm <a href="https://yuna0x0.com">tgxrgl</a>!</h1>
 <p align="center">
   <a href="https://yuna0x0.com">
     <img src="https://yuna0x0.com/88x31.webp" alt="yuna0x0">
@@ -12,7 +12,7 @@
 </p>
 <h3 align="center">welcome to my profile :3</h3>
 
-<p align="center">i'm a catgirl researcher in ml, infosec and game dev～☆</p>
+<p align="center">i'm a stupid teen interested in cs, cryptography and most things tech related～☆</p>
 
 <p align="center">
   <strong><a href="https://yuna0x0.com">Website</a></strong> |
