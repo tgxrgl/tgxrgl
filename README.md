@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://yuna0x0.com">
-    <img src="https://raw.githubusercontent.com/tgxrgl/test/refs/heads/master/kita-ikuyo-rap.webp" alt="Banner" width="50%">
+    <img src="https://media1.tenor.com/m/rSryJTbRc4YAAAAd/bocchi-the-rock-kita-ikuyo.gif" alt="Banner" width="50%">
   </a>
 </p>
 
