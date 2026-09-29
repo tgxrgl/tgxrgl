@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://yuna0x0.com">
-    <img src="https://static.wikia.nocookie.net/bocchi-the-rock/images/f/ff/Ikuyo_Kita.png/revision/latest/scale-to-width-down/1000?cb=20251205104539" alt="Banner" width="50%">
+    <img src="https://raw.githubusercontent.com/tgxrgl/test/refs/heads/master/kita-ikuyo-rap.webp" alt="Banner" width="50%">
   </a>
 </p>
 
